@@ -1,5 +1,5 @@
-import sklearn.datasets as datasets
 from sklearn.neighbors import KNeighborsClassifier
+import sklearn.datasets as datasets
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
